@@ -1,0 +1,26 @@
+font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
+prevArrows: <i class="fa-solid fa-angle-left bprev"></i>,
+    nextArrows: <i class="fa-solid fa-angle-right bnext"></i>,
+
+<div class="counters">
+              <div class="counter__content">
+                <h2 class="counter">229</h2>
+                <span>Total Clients</span>
+              </div>
+              <div class="counter__content">
+                <h2 class="counter">330 </h2>
+                <span>Satisfied Clients</span>
+              </div>
+              <div class="counter__content">
+                <h2 class="counter">130</h2>
+                <span>Reviewed Clients</span>
+              </div>
+              <div class="counter__content">
+                <h2 class="counter">430</h2>
+                <span>Cup of Tea</span>
+              </div>
+              <div class="counter__content">
+                <h2 class="counter">530</h2>
+                <span>Milestone Clients</span>
+              </div>

@@ -1,0 +1,7 @@
+font-family: 'Raleway', sans-serif;
+
+font-family: 'Open Sans', sans-serif;
+
+
+    prevArrow: '<i class="fa-solid fa-right prev"></i>',
+    nextArrow: '<i class="fa-solid fa-left next"></i>',
